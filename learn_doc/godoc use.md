@@ -129,11 +129,18 @@
 ## 导出godoc文档为HTML
 使用命令`godoc -url "http://localhost:6060/pkg/<pkg>/<packageName>/" > <packageName>.html`
 
+`<pkg>`是你包所在的文件夹
+
+`<packageName>`是你的包名
+
 导出来的是纯html文件，没有样式表，不过也有可能可以导出，但是我目前没有找到，如果有找到的朋友也可以交流一下
 
 不过我也有把对应的样式文件给导出来了
 
 下载地址`https://github.com/BaiYu96/golandLearn/tree/master/learn_doc/stylefile`
+
+然后把html文件里面的css跟js指定的路径修改好就可以
+
 ## 教程示例文件
 下载地址`https://github.com/BaiYu96/golandLearn/tree/master/learn_doc/test`
 
