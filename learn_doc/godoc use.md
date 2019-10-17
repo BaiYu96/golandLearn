@@ -1,4 +1,5 @@
 # godoc使用教程
+
 ## 注释规范
 * 注释符//后面要加空格, 例如: // xxx
 
@@ -132,4 +133,8 @@
 
 不过我也有把对应的样式文件给导出来了
 
-下载地址https://github.com/BaiYu96/golandLearn/tree/master/learn_doc/stylefile
+下载地址`https://github.com/BaiYu96/golandLearn/tree/master/learn_doc/stylefile`
+## 教程示例文件
+下载地址`https://github.com/BaiYu96/golandLearn/tree/master/learn_doc/test`
+
+把test文件夹放到你`$GOPATH/src/`目录下
